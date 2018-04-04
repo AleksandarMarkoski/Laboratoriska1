@@ -1,0 +1,11 @@
+commit 6d5a1dd23a06cd0d8f481bb1aa1bc9846869f16a (HEAD -> logging, origin/master, master)
+Author: Aleksandar <maleksandar97@gmail.com>
+Date:   Wed Apr 4 17:26:20 2018 +0200
+
+    modify l1.txt
+
+commit b1b833c8ab78cacd2ebbbb76de47d3ec4bf90f5b
+Author: Aleksandar <maleksandar97@gmail.com>
+Date:   Wed Apr 4 17:18:22 2018 +0200
+
+    Initial commit
